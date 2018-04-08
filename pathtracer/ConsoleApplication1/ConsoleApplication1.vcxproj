@@ -147,11 +147,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="CCamera.h" />
+    <ClInclude Include="CPNGImage.h" />
+    <ClInclude Include="CSphere.h" />
+    <ClInclude Include="SHitRecord.h" />
+    <ClInclude Include="SRay.h" />
     <ClInclude Include="stdafx.h" />
+    <ClInclude Include="CSurface.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="CCamera.cpp" />
     <ClCompile Include="ConsoleApplication1.cpp" />
+    <ClCompile Include="CPNGImage.cpp" />
+    <ClCompile Include="CSphere.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
