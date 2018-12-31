@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PathTracer2k18", "PathTracer2k18\PathTracer2k18.vcxproj", "{7D1B592A-5B41-41EE-AFBD-269C91D93308}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D1B592A-5B41-41EE-AFBD-269C91D93308}.Debug|x64.ActiveCfg = Debug|x64
+		{7D1B592A-5B41-41EE-AFBD-269C91D93308}.Debug|x64.Build.0 = Debug|x64
+		{7D1B592A-5B41-41EE-AFBD-269C91D93308}.Debug|x86.ActiveCfg = Debug|Win32
+		{7D1B592A-5B41-41EE-AFBD-269C91D93308}.Debug|x86.Build.0 = Debug|Win32
+		{7D1B592A-5B41-41EE-AFBD-269C91D93308}.Release|x64.ActiveCfg = Release|x64
+		{7D1B592A-5B41-41EE-AFBD-269C91D93308}.Release|x64.Build.0 = Release|x64
+		{7D1B592A-5B41-41EE-AFBD-269C91D93308}.Release|x86.ActiveCfg = Release|Win32
+		{7D1B592A-5B41-41EE-AFBD-269C91D93308}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACBE70D3-0D9A-48E7-959D-3EF0FAD23AB6}
+	EndGlobalSection
+EndGlobal
